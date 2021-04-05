@@ -1,2 +1,2 @@
 # FLUXNET_AET_paper
-Data for the paper on estimating actual evapotranspiration of FLUXNET sites using machine learning models
+Data for the paper on estimating the actual evapotranspiration of the FLUXNET sites using machine learning models
