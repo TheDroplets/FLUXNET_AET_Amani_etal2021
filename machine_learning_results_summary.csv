@@ -1,85 +1,85 @@
 "","machine_learning_model","feature_set","FLUXNET_site_id","climate","IGBF","MAE_mm","R2","mean_bias_error_mm","mean_AET_observation_mm"
-"1","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","AU-ASM","Arid","Savanna",0.55036238425198,0.688680156731569,0.0925909694132816,0.977104218366496
-"2","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","AU-Lox","Arid","Forest",3.73004347832398,0.373429125455626,-3.6355780721001,5.66391095670895
-"3","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","AU-RDF","Equatorial","Savanna",1.01272771082843,0.379817154963257,-0.0346274244622795,1.96860317649799
-"4","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","AU-TTE","Arid","Grasslands",0.482030449772385,0.518423183320112,0.0500595852522245,0.661566096736985
-"5","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","AU-Wac","Temperate","Forest",0.80939225815206,0.447232409167853,-0.60445877055641,1.98473624014452
-"6","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","AU-Wom","Temperate","Forest",0.762467551107123,0.59727681225241,-0.485490958054629,2.45637833203942
-"7","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","BE-Lon","Temperate","Cropland",0.51684803442443,0.759498768365005,0.10166441563667,1.36324774662484
-"8","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","CA-Qfo","Cold","Forest",0.284214043901396,0.830658756417924,0.00108663121274419,1.00823975798328
-"9","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","CA-SF3","Cold","Shrubland",0.319068204245658,0.804264920071682,-0.0399250527135062,1.00289121884882
-"10","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","CH-Cha","Temperate","Grasslands",0.764128845093276,0.833952538986425,-0.707084877473781,2.03058468772694
-"11","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","CN-Cng","Cold","Grasslands",0.645501112425077,0.7000612731305,-0.167796365402158,1.86852355816417
-"12","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","DE-Gri","Temperate","Grasslands",0.431527689628482,0.922911801419795,-0.23020464138269,1.67317391319268
-"13","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","ES-Amo","Arid","Shrubland",1.55186445646381,0.013357104322175,1.53414785033072,0.599181541934393
-"14","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","FI-Hyy","Cold","Forest",0.374277187290983,0.851887249585684,-0.119034029323131,1.39973447504881
-"15","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","FR-Gri","Temperate","Cropland",0.704123456595981,0.652030275994471,-0.426974996123909,1.96235598624734
-"16","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","FR-LBr","Temperate","Forest",0.564906076950757,0.664027400203107,-0.176275781713964,1.91253068374344
-"17","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","IT-CA1","Temperate","Forest",0.794565549789562,0.527381957185998,0.523678213687436,2.102900013934
-"18","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","IT-SR2","Temperate","Forest",0.716770990479266,0.628898149422045,-0.160759175425102,1.98649337907342
-"19","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","RU-Ha1","Cold","Grasslands",0.348227277643062,0.876161209225649,-0.125052677733013,1.74409289973497
-"20","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","US-ARb","Temperate","Grasslands",0.922069643159604,0.732949622294759,0.37830438566533,1.85875801538339
-"21","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","US-ARc","Temperate","Grasslands",1.00790976539483,0.635881271607283,0.0478406605833157,2.23411820789745
-"22","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","US-Blo","Temperate","Forest",0.763992682053145,0.761719121080001,-0.500247842498313,2.83608497018655
-"23","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","US-Lin","Arid","Cropland",0.604076448543373,0.583114986497261,0.429943474200063,1.79534947158349
-"24","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","US-LWW","Temperate","Grasslands",0.844690257292459,0.685334195434737,0.779874193729268,1.29986527309634
-"25","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","US-Oho","Cold","Forest",1.06733650655084,0.613344630445533,-0.461915706478582,1.82958744907314
-"26","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","US-WCr","Cold","Forest",0.674277367780314,0.764971712132967,0.136391621933317,1.46453035818238
-"27","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","ZM-Mon","Equatorial","Forest",0.85210230474416,0.537331007492157,-0.695011551827524,2.51205219177693
-"28","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","AU-ASM","Arid","Savanna",0.727918604553965,0.569311524284613,0.401610736382625,0.977104218366496
-"29","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","AU-Lox","Arid","Forest",3.80882249593317,0.148651560389073,-3.70603983754427,5.66391095670895
-"30","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","AU-RDF","Equatorial","Savanna",0.998829499953182,0.540323274092685,0.289117437053091,1.96860317649799
-"31","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","AU-TTE","Arid","Grasslands",0.717643617335002,0.404692639959836,0.440768346933789,0.661566096736985
-"32","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","AU-Wac","Temperate","Forest",0.876843936258874,0.334372551461881,-0.663991504778642,1.98473624014452
-"33","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","AU-Wom","Temperate","Forest",0.789762061569783,0.529708111935324,-0.463057286139971,2.45637833203942
-"34","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","BE-Lon","Temperate","Cropland",0.576409649922465,0.727234481829711,0.0804781503646407,1.36324774662484
-"35","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","CA-Qfo","Cold","Forest",0.293393049971,0.822095094134685,-0.0164724307375024,1.00823975798328
-"36","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","CA-SF3","Cold","Shrubland",0.323724802698498,0.798575841818951,-0.0554481361257161,1.00289121884882
-"37","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","CH-Cha","Temperate","Grasslands",0.722245860413884,0.82839802096751,-0.652542323425322,2.03058468772694
-"38","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","CN-Cng","Cold","Grasslands",0.766877540247843,0.711082255864947,-0.569165548120211,1.86852355816417
-"39","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","DE-Gri","Temperate","Grasslands",0.50601136708263,0.897559413997277,-0.252323684130176,1.67317391319268
-"40","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","ES-Amo","Arid","Shrubland",1.59382324920492,0.0295819877367472,1.55542714057995,0.599181541934393
-"41","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","FI-Hyy","Cold","Forest",0.43235105414485,0.815921038164754,-0.234572279396562,1.39973447504881
-"42","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","FR-Gri","Temperate","Cropland",0.737972099953824,0.648489056351794,-0.537704628632498,1.96235598624734
-"43","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","FR-LBr","Temperate","Forest",0.616869859244251,0.626310641379119,-0.299026958898144,1.91253068374344
-"44","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","IT-CA1","Temperate","Forest",0.781004971927925,0.356084491610505,-0.123470121114787,2.102900013934
-"45","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","IT-SR2","Temperate","Forest",0.770013983744638,0.660959623550117,-0.160173286171584,1.98649337907342
-"46","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","RU-Ha1","Cold","Grasslands",0.362307058333224,0.868302119570098,-0.199974538979761,1.74409289973497
-"47","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","US-ARb","Temperate","Grasslands",0.929929960145625,0.687105621655005,0.211110610575505,1.85875801538339
-"48","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","US-ARc","Temperate","Grasslands",0.997869779965694,0.637702010137427,0.0139825301089257,2.23411820789745
-"49","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","US-Blo","Temperate","Forest",1.01073403475808,0.620560488906828,-0.763850320298569,2.83608497018655
-"50","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","US-Lin","Arid","Cropland",0.771972584540418,0.14465393644332,-0.147218387721788,1.79534947158349
-"51","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","US-LWW","Temperate","Grasslands",0.818786522816078,0.679234661357464,0.744976205289538,1.29986527309634
-"52","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","US-Oho","Cold","Forest",1.09456909857086,0.621121604116513,-0.584941003561951,1.82958744907314
-"53","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","US-WCr","Cold","Forest",0.677841383857996,0.762928289324098,0.10712961403548,1.46453035818238
-"54","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","ZM-Mon","Equatorial","Forest",0.58471524274802,0.605839989951889,-0.177055654961376,2.51205219177693
-"55","extra_trees","{air_temp, atm_pressure, rel_humidity}","AU-ASM","Arid","Savanna",0.926052881869892,0.329437298677887,0.580958091266345,0.977104218366496
-"56","extra_trees","{air_temp, atm_pressure, rel_humidity}","AU-Lox","Arid","Forest",3.88801042387215,0.00142246478380106,-3.56077027057646,5.66391095670895
-"57","extra_trees","{air_temp, atm_pressure, rel_humidity}","AU-RDF","Equatorial","Savanna",1.16825661304942,0.376303187188663,0.359109157255814,1.96860317649799
-"58","extra_trees","{air_temp, atm_pressure, rel_humidity}","AU-TTE","Arid","Grasslands",0.989444150587977,0.164640988542043,0.712403730852428,0.661566096736985
-"59","extra_trees","{air_temp, atm_pressure, rel_humidity}","AU-Wac","Temperate","Forest",0.807289906955276,0.360543278607377,-0.550219006174411,1.98473624014452
-"60","extra_trees","{air_temp, atm_pressure, rel_humidity}","AU-Wom","Temperate","Forest",0.981631531293058,0.421150550686464,-0.744167593655787,2.45637833203942
-"61","extra_trees","{air_temp, atm_pressure, rel_humidity}","BE-Lon","Temperate","Cropland",0.779109830608806,0.499725175724564,0.0669834487348287,1.36324774662484
-"62","extra_trees","{air_temp, atm_pressure, rel_humidity}","CA-Qfo","Cold","Forest",0.350422448781835,0.736144038705208,-0.0539939357706997,1.00823975798328
-"63","extra_trees","{air_temp, atm_pressure, rel_humidity}","CA-SF3","Cold","Shrubland",0.398734361815696,0.71274853183973,-0.00872549514161419,1.00289121884882
-"64","extra_trees","{air_temp, atm_pressure, rel_humidity}","CH-Cha","Temperate","Grasslands",1.01057141535013,0.765259141620328,-0.962524277043623,2.03058468772694
-"65","extra_trees","{air_temp, atm_pressure, rel_humidity}","CN-Cng","Cold","Grasslands",0.878155486555116,0.530011837678468,-0.468269191456548,1.86852355816417
-"66","extra_trees","{air_temp, atm_pressure, rel_humidity}","DE-Gri","Temperate","Grasslands",0.750643138547538,0.743130564580664,-0.294174643223388,1.67317391319268
-"67","extra_trees","{air_temp, atm_pressure, rel_humidity}","ES-Amo","Arid","Shrubland",1.7249653093795,0.0780551260815904,1.71313039527983,0.599181541934393
-"68","extra_trees","{air_temp, atm_pressure, rel_humidity}","FI-Hyy","Cold","Forest",0.585572515997759,0.66701758510667,-0.262485945381346,1.39973447504881
-"69","extra_trees","{air_temp, atm_pressure, rel_humidity}","FR-Gri","Temperate","Cropland",0.882188954837534,0.32961538241627,-0.486078919948509,1.96235598624734
-"70","extra_trees","{air_temp, atm_pressure, rel_humidity}","FR-LBr","Temperate","Forest",0.765733588425358,0.390840351044833,-0.268002622811461,1.91253068374344
-"71","extra_trees","{air_temp, atm_pressure, rel_humidity}","IT-CA1","Temperate","Forest",0.968310783510716,0.144299935743805,-0.0580597584364865,2.102900013934
-"72","extra_trees","{air_temp, atm_pressure, rel_humidity}","IT-SR2","Temperate","Forest",0.937503534810683,0.520592739263904,-0.115191601386431,1.98649337907342
-"73","extra_trees","{air_temp, atm_pressure, rel_humidity}","RU-Ha1","Cold","Grasslands",0.501089599735121,0.734177558313869,-0.0692224567282768,1.74409289973497
-"74","extra_trees","{air_temp, atm_pressure, rel_humidity}","US-ARb","Temperate","Grasslands",1.24244800590725,0.407778289471592,0.282802557669126,1.85875801538339
-"75","extra_trees","{air_temp, atm_pressure, rel_humidity}","US-ARc","Temperate","Grasslands",1.21506878428494,0.447966493536313,-0.0471962037302019,2.23411820789745
-"76","extra_trees","{air_temp, atm_pressure, rel_humidity}","US-Blo","Temperate","Forest",1.3766445770205,0.330748999546137,-1.02151877830364,2.83608497018655
-"77","extra_trees","{air_temp, atm_pressure, rel_humidity}","US-Lin","Arid","Cropland",0.821661050268991,0.0637339300674571,-0.188467552614339,1.79534947158349
-"78","extra_trees","{air_temp, atm_pressure, rel_humidity}","US-LWW","Temperate","Grasslands",0.904292372109957,0.464989258308772,0.765445216738462,1.29986527309634
-"79","extra_trees","{air_temp, atm_pressure, rel_humidity}","US-Oho","Cold","Forest",1.08372095058956,0.627834986468193,-0.529974547222551,1.82958744907314
-"80","extra_trees","{air_temp, atm_pressure, rel_humidity}","US-WCr","Cold","Forest",0.815765254677807,0.621739383608477,-0.175696187905017,1.46453035818238
-"81","extra_trees","{air_temp, atm_pressure, rel_humidity}","ZM-Mon","Equatorial","Forest",0.795566055889646,0.307304553840483,-0.175300935813086,2.51205219177693
+"1","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","AU-ASM","Arid","Savanna",0.570164461927062,0.711260172248088,0.182281822275358,0.977104218366496
+"2","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","AU-Lox","Arid","Forest",3.7125119006564,0.460068666515664,-3.62899321122628,5.66391095670895
+"3","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","AU-RDF","Equatorial","Savanna",0.977416790976059,0.428819823952212,0.0104442445959331,1.96860317649799
+"4","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","AU-TTE","Arid","Grasslands",0.521247475547975,0.528235396460379,0.151267732396441,0.661566096736985
+"5","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","AU-Wac","Temperate","Forest",0.7970745226782,0.446082692582469,-0.604674122047516,1.98473624014452
+"6","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","AU-Wom","Temperate","Forest",0.759090599200057,0.607064706556544,-0.504197337114398,2.45637833203942
+"7","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","BE-Lon","Temperate","Cropland",0.522598418519614,0.760461838822797,0.097319684541373,1.36324774662484
+"8","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","CA-Qfo","Cold","Forest",0.286431314343869,0.829475789823208,-0.00277520549288981,1.00823975798328
+"9","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","CA-SF3","Cold","Shrubland",0.322953799331887,0.799392050781806,-0.0298859776411536,1.00289121884882
+"10","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","CH-Cha","Temperate","Grasslands",0.761090919457745,0.836231396832452,-0.704593552132538,2.03058468772694
+"11","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","CN-Cng","Cold","Grasslands",0.617760874257051,0.727942961404468,-0.187846259911275,1.86852355816417
+"12","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","DE-Gri","Temperate","Grasslands",0.436974304341462,0.925800315345439,-0.232719208331998,1.67317391319268
+"13","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","ES-Amo","Arid","Shrubland",1.55146847924465,0.0160783984136942,1.53030922152777,0.599181541934393
+"14","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","FI-Hyy","Cold","Forest",0.372048550730662,0.859527312684181,-0.128909042992305,1.39973447504881
+"15","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","FR-Gri","Temperate","Cropland",0.70949303420283,0.652018764158147,-0.442625626602246,1.96235598624734
+"16","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","FR-LBr","Temperate","Forest",0.567699497406838,0.664950109830393,-0.196120481900016,1.91253068374344
+"17","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","IT-CA1","Temperate","Forest",0.764608248354198,0.546236805725803,0.447768655097478,2.102900013934
+"18","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","IT-SR2","Temperate","Forest",0.713122716812858,0.674482970490589,-0.110284772940428,1.98649337907342
+"19","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","RU-Ha1","Cold","Grasslands",0.339703447684346,0.882574884951589,-0.12468339148502,1.74409289973497
+"20","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","US-ARb","Temperate","Grasslands",0.941903550909364,0.720755980129682,0.38697204347764,1.85875801538339
+"21","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","US-ARc","Temperate","Grasslands",1.01073104970124,0.639936596184646,0.0763260783391278,2.23411820789745
+"22","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","US-Blo","Temperate","Forest",0.810712578474494,0.747464722266195,-0.576915888986792,2.83608497018655
+"23","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","US-Lin","Arid","Cropland",0.589826586282954,0.581522342401553,0.410432819741822,1.79534947158349
+"24","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","US-LWW","Temperate","Grasslands",0.908664070751419,0.671661004317826,0.850712995406423,1.29986527309634
+"25","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","US-Oho","Cold","Forest",1.06684643614119,0.620412390596616,-0.476597078996416,1.82958744907314
+"26","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","US-WCr","Cold","Forest",0.687010584041953,0.755627915824819,0.126991886330527,1.46453035818238
+"27","extra_trees","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","ZM-Mon","Equatorial","Forest",0.816370879392609,0.57794683905908,-0.676757647423725,2.51205219177693
+"28","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","AU-ASM","Arid","Savanna",0.737634283086182,0.575576817759584,0.436533796888166,0.977104218366496
+"29","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","AU-Lox","Arid","Forest",3.81221883854991,0.182207301121675,-3.71477118461234,5.66391095670895
+"30","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","AU-RDF","Equatorial","Savanna",1.02330480379008,0.537444652890917,0.328402860014941,1.96860317649799
+"31","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","AU-TTE","Arid","Grasslands",0.733835983596174,0.417539025659337,0.480383894276483,0.661566096736985
+"32","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","AU-Wac","Temperate","Forest",0.86136250028579,0.3417088331746,-0.671504580241929,1.98473624014452
+"33","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","AU-Wom","Temperate","Forest",0.797794151413778,0.523066407390415,-0.509301122195026,2.45637833203942
+"34","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","BE-Lon","Temperate","Cropland",0.575287953793965,0.733555402165352,0.0748032115984471,1.36324774662484
+"35","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","CA-Qfo","Cold","Forest",0.293568811842122,0.8213405760524,-0.0216902817742479,1.00823975798328
+"36","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","CA-SF3","Cold","Shrubland",0.319942316481862,0.801759741289011,-0.0543129764751926,1.00289121884882
+"37","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","CH-Cha","Temperate","Grasslands",0.729926157882659,0.830260229703383,-0.66186505223773,2.03058468772694
+"38","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","CN-Cng","Cold","Grasslands",0.752611158817612,0.722569708190095,-0.566693369518184,1.86852355816417
+"39","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","DE-Gri","Temperate","Grasslands",0.520972239861415,0.894369224200034,-0.266400583427197,1.67317391319268
+"40","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","ES-Amo","Arid","Shrubland",1.57059245013558,0.0326181940254948,1.53324126415435,0.599181541934393
+"41","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","FI-Hyy","Cold","Forest",0.432523588003181,0.831875827350415,-0.241177596213118,1.39973447504881
+"42","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","FR-Gri","Temperate","Cropland",0.744692494474373,0.652039024434832,-0.54862248680153,1.96235598624734
+"43","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","FR-LBr","Temperate","Forest",0.619385928624794,0.631107435583928,-0.313841651834179,1.91253068374344
+"44","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","IT-CA1","Temperate","Forest",0.751154650066549,0.396118985227108,-0.0983265711964888,2.102900013934
+"45","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","IT-SR2","Temperate","Forest",0.725681595264326,0.712024997464161,-0.0924282156941275,1.98649337907342
+"46","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","RU-Ha1","Cold","Grasslands",0.370219406813163,0.867164036824341,-0.21058750259989,1.74409289973497
+"47","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","US-ARb","Temperate","Grasslands",0.943399177520249,0.679825241649964,0.204378422403788,1.85875801538339
+"48","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","US-ARc","Temperate","Grasslands",0.999478305415012,0.635261822251436,-0.000809499519466452,2.23411820789745
+"49","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","US-Blo","Temperate","Forest",1.04603873228866,0.610037261807661,-0.834569455653777,2.83608497018655
+"50","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","US-Lin","Arid","Cropland",0.739591826948945,0.185067007148643,-0.131124494034872,1.79534947158349
+"51","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","US-LWW","Temperate","Grasslands",0.847555539625301,0.672963584529493,0.777607411917574,1.29986527309634
+"52","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","US-Oho","Cold","Forest",1.08416170032495,0.640165742936778,-0.587394379440848,1.82958744907314
+"53","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","US-WCr","Cold","Forest",0.686199371434285,0.755997680645905,0.0928736869777829,1.46453035818238
+"54","extra_trees","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","ZM-Mon","Equatorial","Forest",0.590026712146159,0.598067002652187,-0.172878635727595,2.51205219177693
+"55","extra_trees","{air_temp, atm_pressure, rel_humidity}","AU-ASM","Arid","Savanna",0.907716395902501,0.372839338666091,0.578409833543115,0.977104218366496
+"56","extra_trees","{air_temp, atm_pressure, rel_humidity}","AU-Lox","Arid","Forest",4.01154569945509,0.00426831401641369,-3.70978342891455,5.66391095670895
+"57","extra_trees","{air_temp, atm_pressure, rel_humidity}","AU-RDF","Equatorial","Savanna",1.20610991495631,0.384448388989637,0.449542852557903,1.96860317649799
+"58","extra_trees","{air_temp, atm_pressure, rel_humidity}","AU-TTE","Arid","Grasslands",0.974967285810084,0.20482300878469,0.71210033258513,0.661566096736985
+"59","extra_trees","{air_temp, atm_pressure, rel_humidity}","AU-Wac","Temperate","Forest",0.794663087781166,0.366171561117054,-0.584692610923185,1.98473624014452
+"60","extra_trees","{air_temp, atm_pressure, rel_humidity}","AU-Wom","Temperate","Forest",1.00194490289735,0.401085235086273,-0.787080223000439,2.45637833203942
+"61","extra_trees","{air_temp, atm_pressure, rel_humidity}","BE-Lon","Temperate","Cropland",0.798019262552315,0.495717183758287,0.075653442967195,1.36324774662484
+"62","extra_trees","{air_temp, atm_pressure, rel_humidity}","CA-Qfo","Cold","Forest",0.361910005534435,0.728242464643348,-0.0330627782127258,1.00823975798328
+"63","extra_trees","{air_temp, atm_pressure, rel_humidity}","CA-SF3","Cold","Shrubland",0.407552208727091,0.708257302166449,-0.0241585781814335,1.00289121884882
+"64","extra_trees","{air_temp, atm_pressure, rel_humidity}","CH-Cha","Temperate","Grasslands",0.967410211246473,0.746476928693921,-0.893673641149885,2.03058468772694
+"65","extra_trees","{air_temp, atm_pressure, rel_humidity}","CN-Cng","Cold","Grasslands",0.868916069452673,0.558650283914221,-0.455961604087015,1.86852355816417
+"66","extra_trees","{air_temp, atm_pressure, rel_humidity}","DE-Gri","Temperate","Grasslands",0.775753967354644,0.719918550637384,-0.273752748120006,1.67317391319268
+"67","extra_trees","{air_temp, atm_pressure, rel_humidity}","ES-Amo","Arid","Shrubland",1.64046654556598,0.0877257058249443,1.6276443301075,0.599181541934393
+"68","extra_trees","{air_temp, atm_pressure, rel_humidity}","FI-Hyy","Cold","Forest",0.586836745620467,0.684004849174112,-0.237662375063405,1.39973447504881
+"69","extra_trees","{air_temp, atm_pressure, rel_humidity}","FR-Gri","Temperate","Cropland",0.874242262675827,0.345332746601642,-0.483895815538384,1.96235598624734
+"70","extra_trees","{air_temp, atm_pressure, rel_humidity}","FR-LBr","Temperate","Forest",0.763358838289195,0.402762763778514,-0.279987677059148,1.91253068374344
+"71","extra_trees","{air_temp, atm_pressure, rel_humidity}","IT-CA1","Temperate","Forest",0.925432021793761,0.2101799062263,-0.0693359139435718,2.102900013934
+"72","extra_trees","{air_temp, atm_pressure, rel_humidity}","IT-SR2","Temperate","Forest",0.90984175468179,0.59239552511925,-0.0481923130689035,1.98649337907342
+"73","extra_trees","{air_temp, atm_pressure, rel_humidity}","RU-Ha1","Cold","Grasslands",0.515950004107019,0.732488944235277,-0.0854238707765908,1.74409289973497
+"74","extra_trees","{air_temp, atm_pressure, rel_humidity}","US-ARb","Temperate","Grasslands",1.22618057245466,0.458538868607578,0.286526513263823,1.85875801538339
+"75","extra_trees","{air_temp, atm_pressure, rel_humidity}","US-ARc","Temperate","Grasslands",1.20042833766881,0.475542602058478,-0.0531222666770808,2.23411820789745
+"76","extra_trees","{air_temp, atm_pressure, rel_humidity}","US-Blo","Temperate","Forest",1.39483732588554,0.320980334234415,-1.10829460177269,2.83608497018655
+"77","extra_trees","{air_temp, atm_pressure, rel_humidity}","US-Lin","Arid","Cropland",0.78866775833941,0.117410629140933,-0.138137111346676,1.79534947158349
+"78","extra_trees","{air_temp, atm_pressure, rel_humidity}","US-LWW","Temperate","Grasslands",0.946637995959816,0.458062053026518,0.818982807785676,1.29986527309634
+"79","extra_trees","{air_temp, atm_pressure, rel_humidity}","US-Oho","Cold","Forest",1.08906036520232,0.637877988614972,-0.532026529965591,1.82958744907314
+"80","extra_trees","{air_temp, atm_pressure, rel_humidity}","US-WCr","Cold","Forest",0.823508589235569,0.626282459774998,-0.161294826861315,1.46453035818238
+"81","extra_trees","{air_temp, atm_pressure, rel_humidity}","ZM-Mon","Equatorial","Forest",0.807076443986202,0.300056822582454,-0.131341352315195,2.51205219177693
 "82","k_nearest_neighbor","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","AU-ASM","Arid","Savanna",0.588791677076063,0.655291563019383,0.199289626752127,0.977104218366496
 "83","k_nearest_neighbor","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","AU-Lox","Arid","Forest",4.04893155565687,0.194358000321092,-3.98349826352478,5.66391095670895
 "84","k_nearest_neighbor","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","AU-RDF","Equatorial","Savanna",1.03996199147647,0.512743985961827,0.319352097931116,1.96860317649799
@@ -161,87 +161,87 @@
 "160","k_nearest_neighbor","{air_temp, atm_pressure, rel_humidity}","US-Oho","Cold","Forest",1.07394716752874,0.652422762055717,-0.532250445119338,1.82958744907314
 "161","k_nearest_neighbor","{air_temp, atm_pressure, rel_humidity}","US-WCr","Cold","Forest",0.822729199945252,0.624349863994079,-0.195725396640301,1.46453035818238
 "162","k_nearest_neighbor","{air_temp, atm_pressure, rel_humidity}","ZM-Mon","Equatorial","Forest",0.785368512143989,0.325544713526917,-0.0303118133607701,2.51205219177693
-"163","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","AU-ASM","Arid","Savanna",0.451823659510904,0.707745365270128,-0.113254868490854,0.977104218366496
-"164","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","AU-Lox","Arid","Forest",3.54633915902354,0.570628185353301,-3.42089323296264,5.66391095670895
-"165","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","AU-RDF","Equatorial","Savanna",0.968048351843886,0.437371857570549,-0.395882810232311,1.96860317649799
-"166","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","AU-TTE","Arid","Grasslands",0.395009808348662,0.512573691775871,-0.173737947797482,0.661566096736985
-"167","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","AU-Wac","Temperate","Forest",0.771482781947068,0.454617793351089,-0.547067291069205,1.98473624014452
-"168","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","AU-Wom","Temperate","Forest",0.744251246090017,0.63320222128121,-0.495011912410934,2.45637833203942
-"169","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","BE-Lon","Temperate","Cropland",0.541100755054934,0.765069689334302,0.114808936427023,1.36324774662484
-"170","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","CA-Qfo","Cold","Forest",0.297994065672847,0.822154273878155,-0.0303422524771001,1.00823975798328
-"171","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","CA-SF3","Cold","Shrubland",0.354164986194382,0.77388340551592,-0.0274717892077576,1.00289121884882
-"172","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","CH-Cha","Temperate","Grasslands",0.768773533258788,0.838221107148862,-0.710508242919717,2.03058468772694
-"173","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","CN-Cng","Cold","Grasslands",0.625254182273829,0.728069256725338,-0.287532667708002,1.86852355816417
-"174","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","DE-Gri","Temperate","Grasslands",0.458536608453834,0.927460925793993,-0.213783414334308,1.67317391319268
-"175","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","ES-Amo","Arid","Shrubland",1.59931058975054,0.0211658055906865,1.58145495561238,0.599181541934393
-"176","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","FI-Hyy","Cold","Forest",0.376667352921539,0.864991373047701,-0.144493878487984,1.39973447504881
-"177","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","FR-Gri","Temperate","Cropland",0.724696611996217,0.618586112326378,-0.417068883686392,1.96235598624734
-"178","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","FR-LBr","Temperate","Forest",0.597702343624413,0.628504046093493,-0.190688989189089,1.91253068374344
-"179","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","IT-CA1","Temperate","Forest",0.769585777119003,0.514471611706236,0.422293001094151,2.102900013934
-"180","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","IT-SR2","Temperate","Forest",0.707411455735547,0.683710784159343,-0.105399523327602,1.98649337907342
-"181","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","RU-Ha1","Cold","Grasslands",0.335573025259501,0.88719207753753,-0.109972270368868,1.74409289973497
-"182","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","US-ARb","Temperate","Grasslands",0.965169992426328,0.703595522997152,0.397323787963588,1.85875801538339
-"183","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","US-ARc","Temperate","Grasslands",1.01255514614642,0.635939050362904,0.0707266463274427,2.23411820789745
-"184","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","US-Blo","Temperate","Forest",0.826550779187615,0.70707362248335,-0.553162390256234,2.83608497018655
-"185","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","US-Lin","Arid","Cropland",0.606131794263163,0.598480894356829,0.478620518958679,1.79534947158349
-"186","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","US-LWW","Temperate","Grasslands",0.91046543056893,0.649716140912249,0.854206579174904,1.29986527309634
-"187","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","US-Oho","Cold","Forest",1.06540845093104,0.639545439785363,-0.510976768359884,1.82958744907314
-"188","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","US-WCr","Cold","Forest",0.672997476840623,0.75831600394534,0.0818720385753407,1.46453035818238
-"189","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","ZM-Mon","Equatorial","Forest",0.856368848063408,0.54292474547278,-0.669054717063175,2.51205219177693
-"190","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","AU-ASM","Arid","Savanna",0.741234188166305,0.566433404502169,0.462528219755414,0.977104218366496
-"191","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","AU-Lox","Arid","Forest",3.70357500067506,0.242858452063132,-3.59554521741272,5.66391095670895
-"192","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","AU-RDF","Equatorial","Savanna",0.980535387851069,0.529893412989349,0.242480639644556,1.96860317649799
-"193","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","AU-TTE","Arid","Grasslands",0.732559458900827,0.39957591321315,0.475009306422253,0.661566096736985
-"194","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","AU-Wac","Temperate","Forest",0.808452695755819,0.364319623276768,-0.615176190448123,1.98473624014452
-"195","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","AU-Wom","Temperate","Forest",0.781436218542916,0.536600434877997,-0.475015188560779,2.45637833203942
-"196","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","BE-Lon","Temperate","Cropland",0.588174314788577,0.739539449730306,0.0491264282055049,1.36324774662484
-"197","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","CA-Qfo","Cold","Forest",0.296531180528279,0.821597818097359,-0.0201606836478703,1.00823975798328
-"198","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","CA-SF3","Cold","Shrubland",0.335020786145153,0.794464017898963,-0.0345660540319751,1.00289121884882
-"199","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","CH-Cha","Temperate","Grasslands",0.751641904478167,0.833304009652715,-0.685421203370684,2.03058468772694
-"200","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","CN-Cng","Cold","Grasslands",0.782760939147115,0.718504878216186,-0.632700518639124,1.86852355816417
-"201","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","DE-Gri","Temperate","Grasslands",0.541640251330202,0.894588924572928,-0.266838862370375,1.67317391319268
-"202","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","ES-Amo","Arid","Shrubland",1.61817201112485,0.0376049758627003,1.59097769477833,0.599181541934393
-"203","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","FI-Hyy","Cold","Forest",0.457146628205659,0.837113668547683,-0.257894928215158,1.39973447504881
-"204","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","FR-Gri","Temperate","Cropland",0.759764149746375,0.638091393146857,-0.547243338964958,1.96235598624734
-"205","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","FR-LBr","Temperate","Forest",0.630675924975494,0.626660058314442,-0.32246940786094,1.91253068374344
-"206","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","IT-CA1","Temperate","Forest",0.763808168533243,0.385719397765838,-0.15583536475319,2.102900013934
-"207","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","IT-SR2","Temperate","Forest",0.718821899754862,0.729914583015538,-0.0815079668324846,1.98649337907342
-"208","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","RU-Ha1","Cold","Grasslands",0.374771663436774,0.8685395256206,-0.205945397316064,1.74409289973497
-"209","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","US-ARb","Temperate","Grasslands",0.916526714571216,0.702765912675919,0.257561155649675,1.85875801538339
-"210","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","US-ARc","Temperate","Grasslands",0.965087333100648,0.650940619589271,0.0258674107594048,2.23411820789745
-"211","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","US-Blo","Temperate","Forest",1.06491667501628,0.564017102515294,-0.83702669788303,2.83608497018655
-"212","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","US-Lin","Arid","Cropland",0.723004583732417,0.230563199261716,-0.0827503438280155,1.79534947158349
-"213","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","US-LWW","Temperate","Grasslands",0.901781367977028,0.655563987181514,0.833137887580695,1.29986527309634
-"214","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","US-Oho","Cold","Forest",1.0844660293079,0.656776412683382,-0.649132341221855,1.82958744907314
-"215","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","US-WCr","Cold","Forest",0.670087320888541,0.763630857458868,0.0925277455463282,1.46453035818238
-"216","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","ZM-Mon","Equatorial","Forest",0.629208069288917,0.57799965211519,-0.255448178623135,2.51205219177693
-"217","LightGBM","{air_temp, atm_pressure, rel_humidity}","AU-ASM","Arid","Savanna",0.917804800961365,0.385374844769527,0.579657519299716,0.977104218366496
-"218","LightGBM","{air_temp, atm_pressure, rel_humidity}","AU-Lox","Arid","Forest",4.01347401324161,0.0115010975615569,-3.70834197854035,5.66391095670895
-"219","LightGBM","{air_temp, atm_pressure, rel_humidity}","AU-RDF","Equatorial","Savanna",1.21492047970263,0.387722160786613,0.463507007042269,1.96860317649799
-"220","LightGBM","{air_temp, atm_pressure, rel_humidity}","AU-TTE","Arid","Grasslands",0.983958579588682,0.232956036838083,0.730172529698869,0.661566096736985
-"221","LightGBM","{air_temp, atm_pressure, rel_humidity}","AU-Wac","Temperate","Forest",0.794521621426778,0.34908912106717,-0.596660977848231,1.98473624014452
-"222","LightGBM","{air_temp, atm_pressure, rel_humidity}","AU-Wom","Temperate","Forest",1.02672542041649,0.36996744512404,-0.82358411998428,2.45637833203942
-"223","LightGBM","{air_temp, atm_pressure, rel_humidity}","BE-Lon","Temperate","Cropland",0.830268574821138,0.481336619015629,0.116386932093853,1.36324774662484
-"224","LightGBM","{air_temp, atm_pressure, rel_humidity}","CA-Qfo","Cold","Forest",0.42500817091405,0.689526480595674,0.0242956958146405,1.00823975798328
-"225","LightGBM","{air_temp, atm_pressure, rel_humidity}","CA-SF3","Cold","Shrubland",0.486418400754948,0.679565440924435,0.0319134356065123,1.00289121884882
-"226","LightGBM","{air_temp, atm_pressure, rel_humidity}","CH-Cha","Temperate","Grasslands",0.953359713275553,0.69906653564902,-0.83145645961629,2.03058468772694
-"227","LightGBM","{air_temp, atm_pressure, rel_humidity}","CN-Cng","Cold","Grasslands",0.889722102559019,0.551553829421066,-0.477741612066867,1.86852355816417
-"228","LightGBM","{air_temp, atm_pressure, rel_humidity}","DE-Gri","Temperate","Grasslands",0.837393467279011,0.682593169150554,-0.271751016280918,1.67317391319268
-"229","LightGBM","{air_temp, atm_pressure, rel_humidity}","ES-Amo","Arid","Shrubland",1.63604508493192,0.0832055409051191,1.62395388622234,0.599181541934393
-"230","LightGBM","{air_temp, atm_pressure, rel_humidity}","FI-Hyy","Cold","Forest",0.614810581559385,0.668360878292944,-0.195165804711085,1.39973447504881
-"231","LightGBM","{air_temp, atm_pressure, rel_humidity}","FR-Gri","Temperate","Cropland",0.874904704725799,0.336509678057866,-0.448136276745354,1.96235598624734
-"232","LightGBM","{air_temp, atm_pressure, rel_humidity}","FR-LBr","Temperate","Forest",0.771410266360193,0.394419677459039,-0.256613119870858,1.91253068374344
-"233","LightGBM","{air_temp, atm_pressure, rel_humidity}","IT-CA1","Temperate","Forest",0.925471368099733,0.230752163093089,-0.0878625096127202,2.102900013934
-"234","LightGBM","{air_temp, atm_pressure, rel_humidity}","IT-SR2","Temperate","Forest",0.928329011646492,0.57190504214184,0.0168682215500022,1.98649337907342
-"235","LightGBM","{air_temp, atm_pressure, rel_humidity}","RU-Ha1","Cold","Grasslands",0.579791245024882,0.700805222697835,-0.11636064125948,1.74409289973497
-"236","LightGBM","{air_temp, atm_pressure, rel_humidity}","US-ARb","Temperate","Grasslands",1.14753136074607,0.551898409702321,0.258413179402759,1.85875801538339
-"237","LightGBM","{air_temp, atm_pressure, rel_humidity}","US-ARc","Temperate","Grasslands",1.13083511883917,0.558232547305341,-0.0790005801335434,2.23411820789745
-"238","LightGBM","{air_temp, atm_pressure, rel_humidity}","US-Blo","Temperate","Forest",1.41380493144993,0.260459495494525,-1.13066170623113,2.83608497018655
-"239","LightGBM","{air_temp, atm_pressure, rel_humidity}","US-Lin","Arid","Cropland",0.79064950982081,0.130284552867213,-0.0853281785316476,1.79534947158349
-"240","LightGBM","{air_temp, atm_pressure, rel_humidity}","US-LWW","Temperate","Grasslands",0.943010257550204,0.438209564912856,0.814927613128584,1.29986527309634
-"241","LightGBM","{air_temp, atm_pressure, rel_humidity}","US-Oho","Cold","Forest",1.10923034636235,0.643476921380233,-0.525364412317137,1.82958744907314
-"242","LightGBM","{air_temp, atm_pressure, rel_humidity}","US-WCr","Cold","Forest",0.862778631699185,0.626497985721326,-0.105391032932108,1.46453035818238
-"243","LightGBM","{air_temp, atm_pressure, rel_humidity}","ZM-Mon","Equatorial","Forest",0.758961633110906,0.362835810165278,-0.215624379995265,2.51205219177693
+"163","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","AU-ASM","Arid","Savanna",0.450303508653339,0.685953593079255,-0.211306982463578,0.977104218366496
+"164","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","AU-Lox","Arid","Forest",3.54969878666413,0.564378662691351,-3.40675358795696,5.66391095670895
+"165","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","AU-RDF","Equatorial","Savanna",0.947299733157324,0.442231405238743,-0.403389772801643,1.96860317649799
+"166","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","AU-TTE","Arid","Grasslands",0.451467841141945,0.454363133264049,-0.358303932721368,0.661566096736985
+"167","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","AU-Wac","Temperate","Forest",0.774791866258699,0.435727472609458,-0.556158575242339,1.98473624014452
+"168","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","AU-Wom","Temperate","Forest",0.722347383995672,0.635363843545346,-0.428926170406886,2.45637833203942
+"169","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","BE-Lon","Temperate","Cropland",0.546131987336535,0.761171112959115,0.133081009434583,1.36324774662484
+"170","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","CA-Qfo","Cold","Forest",0.306446652761443,0.816811906110072,-0.0215855408631378,1.00823975798328
+"171","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","CA-SF3","Cold","Shrubland",0.368775265556553,0.765536642740471,-0.0114890049492927,1.00289121884882
+"172","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","CH-Cha","Temperate","Grasslands",0.755558850481316,0.836158352645565,-0.693574233297803,2.03058468772694
+"173","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","CN-Cng","Cold","Grasslands",0.60184667181225,0.739875040903132,-0.185001004490772,1.86852355816417
+"174","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","DE-Gri","Temperate","Grasslands",0.455091934234046,0.929884444625566,-0.197581380878058,1.67317391319268
+"175","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","ES-Amo","Arid","Shrubland",1.59101578281182,0.0207955415736441,1.57287472104992,0.599181541934393
+"176","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","FI-Hyy","Cold","Forest",0.380392866350733,0.863508792665559,-0.127647839878934,1.39973447504881
+"177","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","FR-Gri","Temperate","Cropland",0.712808838502089,0.634765616600459,-0.415924066347418,1.96235598624734
+"178","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","FR-LBr","Temperate","Forest",0.581542235892446,0.641796118152364,-0.168121758839421,1.91253068374344
+"179","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","IT-CA1","Temperate","Forest",0.813994755697433,0.50132632001947,0.509808309434728,2.102900013934
+"180","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","IT-SR2","Temperate","Forest",0.725047430007981,0.667317452271322,-0.155768348728694,1.98649337907342
+"181","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","RU-Ha1","Cold","Grasslands",0.33607528916369,0.88469050831617,-0.0848879743807871,1.74409289973497
+"182","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","US-ARb","Temperate","Grasslands",0.955978221627716,0.706624091810398,0.418873338371753,1.85875801538339
+"183","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","US-ARc","Temperate","Grasslands",0.998009292855931,0.643441457413785,0.0880006118970308,2.23411820789745
+"184","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","US-Blo","Temperate","Forest",0.819867331877994,0.704398274800202,-0.561164548454435,2.83608497018655
+"185","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","US-Lin","Arid","Cropland",0.614827541541687,0.585670607502603,0.48014489748545,1.79534947158349
+"186","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","US-LWW","Temperate","Grasslands",0.897225045530989,0.657505190677745,0.843982542132734,1.29986527309634
+"187","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","US-Oho","Cold","Forest",1.04884626269648,0.646209122287616,-0.472411495217906,1.82958744907314
+"188","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","US-WCr","Cold","Forest",0.660804430071435,0.76365128501242,0.0952059438219338,1.46453035818238
+"189","LightGBM","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","ZM-Mon","Equatorial","Forest",0.866366389312842,0.570459595804125,-0.728284470517116,2.51205219177693
+"190","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","AU-ASM","Arid","Savanna",0.70740127939647,0.574352611597628,0.413349328686728,0.977104218366496
+"191","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","AU-Lox","Arid","Forest",3.69276657717935,0.251137648559481,-3.57963596597822,5.66391095670895
+"192","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","AU-RDF","Equatorial","Savanna",0.949035146581074,0.550168076496819,0.205896156059986,1.96860317649799
+"193","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","AU-TTE","Arid","Grasslands",0.688603468961555,0.401005176781922,0.410408285851847,0.661566096736985
+"194","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","AU-Wac","Temperate","Forest",0.823632185669697,0.353346008183316,-0.645843936088812,1.98473624014452
+"195","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","AU-Wom","Temperate","Forest",0.79163823212968,0.530370600714717,-0.488572450191642,2.45637833203942
+"196","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","BE-Lon","Temperate","Cropland",0.582205124629751,0.740416902123036,0.0448344518878656,1.36324774662484
+"197","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","CA-Qfo","Cold","Forest",0.3058475629408,0.817060439307675,-0.00476317044414892,1.00823975798328
+"198","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","CA-SF3","Cold","Shrubland",0.345800302288883,0.789357589095826,-0.0201813969650609,1.00289121884882
+"199","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","CH-Cha","Temperate","Grasslands",0.746206083792734,0.837982640276715,-0.680094331720064,2.03058468772694
+"200","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","CN-Cng","Cold","Grasslands",0.779964666029089,0.718200250061509,-0.613290551201755,1.86852355816417
+"201","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","DE-Gri","Temperate","Grasslands",0.529932651695733,0.901673746681608,-0.255142929843956,1.67317391319268
+"202","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","ES-Amo","Arid","Shrubland",1.62690132554025,0.0389006261153436,1.59894569020808,0.599181541934393
+"203","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","FI-Hyy","Cold","Forest",0.455956399508405,0.837673430447846,-0.243471671776088,1.39973447504881
+"204","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","FR-Gri","Temperate","Cropland",0.760110873917324,0.637044923097637,-0.546411100640341,1.96235598624734
+"205","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","FR-LBr","Temperate","Forest",0.631904832388938,0.617844029778503,-0.309951728489867,1.91253068374344
+"206","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","IT-CA1","Temperate","Forest",0.770543714464994,0.363445522409501,-0.143279571492116,2.102900013934
+"207","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","IT-SR2","Temperate","Forest",0.7371825440092,0.721295250178573,-0.107242872306405,1.98649337907342
+"208","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","RU-Ha1","Cold","Grasslands",0.375269601717963,0.865744590206866,-0.180420955904956,1.74409289973497
+"209","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","US-ARb","Temperate","Grasslands",0.900839588345074,0.712377412680263,0.292258598672475,1.85875801538339
+"210","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","US-ARc","Temperate","Grasslands",0.946886811064858,0.66493638990105,0.0538311723913618,2.23411820789745
+"211","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","US-Blo","Temperate","Forest",1.08779966832077,0.554996845508121,-0.868942544872815,2.83608497018655
+"212","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","US-Lin","Arid","Cropland",0.738468111518537,0.207270900471467,-0.0885047266771826,1.79534947158349
+"213","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","US-LWW","Temperate","Grasslands",0.892785266384542,0.685553784258822,0.831523983375811,1.29986527309634
+"214","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","US-Oho","Cold","Forest",1.07943878183112,0.656704659923197,-0.62920203681577,1.82958744907314
+"215","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","US-WCr","Cold","Forest",0.669792903606262,0.770055671400577,0.0990926567276831,1.46453035818238
+"216","LightGBM","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","ZM-Mon","Equatorial","Forest",0.617979832267917,0.577756166888085,-0.234900278735897,2.51205219177693
+"217","LightGBM","{air_temp, atm_pressure, rel_humidity}","AU-ASM","Arid","Savanna",0.88763822651195,0.409305832833914,0.555916727539905,0.977104218366496
+"218","LightGBM","{air_temp, atm_pressure, rel_humidity}","AU-Lox","Arid","Forest",4.0239408858269,0.011482792122674,-3.71604073092599,5.66391095670895
+"219","LightGBM","{air_temp, atm_pressure, rel_humidity}","AU-RDF","Equatorial","Savanna",1.19018737733817,0.400546024624312,0.461844708620303,1.96860317649799
+"220","LightGBM","{air_temp, atm_pressure, rel_humidity}","AU-TTE","Arid","Grasslands",0.958539698160759,0.24707078402611,0.697856861214496,0.661566096736985
+"221","LightGBM","{air_temp, atm_pressure, rel_humidity}","AU-Wac","Temperate","Forest",0.82497268719677,0.328565806461835,-0.628111082935129,1.98473624014452
+"222","LightGBM","{air_temp, atm_pressure, rel_humidity}","AU-Wom","Temperate","Forest",1.04153399938307,0.359505097505585,-0.829010511997982,2.45637833203942
+"223","LightGBM","{air_temp, atm_pressure, rel_humidity}","BE-Lon","Temperate","Cropland",0.819715211691823,0.487845497951296,0.0886799446460779,1.36324774662484
+"224","LightGBM","{air_temp, atm_pressure, rel_humidity}","CA-Qfo","Cold","Forest",0.425031994597263,0.687338998584697,0.0275942958959201,1.00823975798328
+"225","LightGBM","{air_temp, atm_pressure, rel_humidity}","CA-SF3","Cold","Shrubland",0.488842282150938,0.671835513695125,0.0390360414898972,1.00289121884882
+"226","LightGBM","{air_temp, atm_pressure, rel_humidity}","CH-Cha","Temperate","Grasslands",0.952885540479402,0.696054223293227,-0.829879897051379,2.03058468772694
+"227","LightGBM","{air_temp, atm_pressure, rel_humidity}","CN-Cng","Cold","Grasslands",0.89424816610597,0.549787168273711,-0.496894883140596,1.86852355816417
+"228","LightGBM","{air_temp, atm_pressure, rel_humidity}","DE-Gri","Temperate","Grasslands",0.833857224982859,0.677973023490807,-0.269653187376248,1.67317391319268
+"229","LightGBM","{air_temp, atm_pressure, rel_humidity}","ES-Amo","Arid","Shrubland",1.6514089887177,0.0897654809625486,1.63917870778956,0.599181541934393
+"230","LightGBM","{air_temp, atm_pressure, rel_humidity}","FI-Hyy","Cold","Forest",0.621035473812731,0.668574208459987,-0.214811691501397,1.39973447504881
+"231","LightGBM","{air_temp, atm_pressure, rel_humidity}","FR-Gri","Temperate","Cropland",0.876900983556676,0.340554463340234,-0.466761895466156,1.96235598624734
+"232","LightGBM","{air_temp, atm_pressure, rel_humidity}","FR-LBr","Temperate","Forest",0.771165227508387,0.394841380637228,-0.273579720894328,1.91253068374344
+"233","LightGBM","{air_temp, atm_pressure, rel_humidity}","IT-CA1","Temperate","Forest",0.917496283404768,0.232622048573808,-0.119846113392407,2.102900013934
+"234","LightGBM","{air_temp, atm_pressure, rel_humidity}","IT-SR2","Temperate","Forest",0.928079258542518,0.566118408606959,-0.0172669497545538,1.98649337907342
+"235","LightGBM","{air_temp, atm_pressure, rel_humidity}","RU-Ha1","Cold","Grasslands",0.574895938724901,0.687843618514962,-0.0804736701972155,1.74409289973497
+"236","LightGBM","{air_temp, atm_pressure, rel_humidity}","US-ARb","Temperate","Grasslands",1.14053367536295,0.526554709869622,0.269618558236681,1.85875801538339
+"237","LightGBM","{air_temp, atm_pressure, rel_humidity}","US-ARc","Temperate","Grasslands",1.11796081902557,0.5363028126012,-0.0553213121621095,2.23411820789745
+"238","LightGBM","{air_temp, atm_pressure, rel_humidity}","US-Blo","Temperate","Forest",1.43628099493845,0.242243546390995,-1.17267391610711,2.83608497018655
+"239","LightGBM","{air_temp, atm_pressure, rel_humidity}","US-Lin","Arid","Cropland",0.789348571350836,0.125086191704033,-0.092652874398267,1.79534947158349
+"240","LightGBM","{air_temp, atm_pressure, rel_humidity}","US-LWW","Temperate","Grasslands",0.964998478240286,0.435346875313145,0.834140070532073,1.29986527309634
+"241","LightGBM","{air_temp, atm_pressure, rel_humidity}","US-Oho","Cold","Forest",1.09831329160482,0.654655308713685,-0.551389659951621,1.82958744907314
+"242","LightGBM","{air_temp, atm_pressure, rel_humidity}","US-WCr","Cold","Forest",0.856241639023065,0.628278080788533,-0.0840717405713577,1.46453035818238
+"243","LightGBM","{air_temp, atm_pressure, rel_humidity}","ZM-Mon","Equatorial","Forest",0.756101380691483,0.370460755835662,-0.128281840133628,2.51205219177693
 "244","random_forest","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","AU-ASM","Arid","Savanna",0.510072928795699,0.704905930899861,0.0618624086539537,0.977104218366496
 "245","random_forest","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","AU-Lox","Arid","Forest",3.62736837096333,0.53411638316683,-3.51235791408689,5.66391095670895
 "246","random_forest","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","AU-RDF","Equatorial","Savanna",0.978907944399775,0.400881492478219,-0.153445634611134,1.96860317649799
@@ -253,7 +253,7 @@
 "252","random_forest","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","CA-SF3","Cold","Shrubland",0.328287902980111,0.791499262927131,-0.0156906454361564,1.00289121884882
 "253","random_forest","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","CH-Cha","Temperate","Grasslands",0.750194075205594,0.838909149153368,-0.691180799326308,2.03058468772694
 "254","random_forest","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","CN-Cng","Cold","Grasslands",0.607750319988677,0.73602067650246,-0.19829753848235,1.86852355816417
-"255","random_forest","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","DE-Gri","Temperate","Grasslands",0.44444470560521,0.926347895811778,-0.208517339908113,1.67317391319268
+"255","random_forest","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","DE-Gri","Temperate","Grasslands",0.44444470560521,0.926347895811777,-0.208517339908113,1.67317391319268
 "256","random_forest","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","ES-Amo","Arid","Shrubland",1.57203661042814,0.0202809098943724,1.55021792714035,0.599181541934393
 "257","random_forest","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","FI-Hyy","Cold","Forest",0.370708907979825,0.865584881832893,-0.127997229612929,1.39973447504881
 "258","random_forest","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","FR-Gri","Temperate","Cropland",0.701308074419582,0.648885747020732,-0.421676659066492,1.96235598624734
@@ -262,7 +262,7 @@
 "261","random_forest","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","IT-SR2","Temperate","Forest",0.729127355123424,0.662565583505094,-0.10581732855673,1.98649337907342
 "262","random_forest","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","RU-Ha1","Cold","Grasslands",0.339648029663856,0.881087053139052,-0.109969043571992,1.74409289973497
 "263","random_forest","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","US-ARb","Temperate","Grasslands",0.966079107717555,0.689127757904363,0.371297302397816,1.85875801538339
-"264","random_forest","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","US-ARc","Temperate","Grasslands",1.03471878172282,0.610915874927332,0.0887762569528589,2.23411820789745
+"264","random_forest","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","US-ARc","Temperate","Grasslands",1.03471878172282,0.610915874927332,0.088776256952859,2.23411820789745
 "265","random_forest","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","US-Blo","Temperate","Forest",0.824124722915923,0.722605217758585,-0.583476166577745,2.83608497018655
 "266","random_forest","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","US-Lin","Arid","Cropland",0.595834955010287,0.581515929965881,0.43660559789211,1.79534947158349
 "267","random_forest","{air_temp, atm_pressure, rel_humidity, soil_moisture, incoming_radiaiton}","US-LWW","Temperate","Grasslands",0.909321874770849,0.658196946440481,0.848146617911124,1.29986527309634
@@ -289,26 +289,26 @@
 "288","random_forest","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","IT-SR2","Temperate","Forest",0.782916790394322,0.670992538505712,-0.156746312534898,1.98649337907342
 "289","random_forest","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","RU-Ha1","Cold","Grasslands",0.369974955279204,0.866789181348423,-0.208860384095089,1.74409289973497
 "290","random_forest","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","US-ARb","Temperate","Grasslands",0.916300593060509,0.694489801695541,0.21390281287397,1.85875801538339
-"291","random_forest","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","US-ARc","Temperate","Grasslands",0.983395729134064,0.640805973071254,0.00683891752108125,2.23411820789745
+"291","random_forest","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","US-ARc","Temperate","Grasslands",0.983395729134064,0.640805973071254,0.00683891752108127,2.23411820789745
 "292","random_forest","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","US-Blo","Temperate","Forest",1.07825307335118,0.571743580573646,-0.849444485446789,2.83608497018655
 "293","random_forest","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","US-Lin","Arid","Cropland",0.746536593713008,0.189006419856414,-0.100095250556764,1.79534947158349
 "294","random_forest","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","US-LWW","Temperate","Grasslands",0.82779143364217,0.678232429193964,0.761539657719738,1.29986527309634
 "295","random_forest","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","US-Oho","Cold","Forest",1.0905701456591,0.633411234036345,-0.590027650430348,1.82958744907314
-"296","random_forest","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","US-WCr","Cold","Forest",0.677369034245697,0.753687733110478,0.0935463556876992,1.46453035818238
+"296","random_forest","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","US-WCr","Cold","Forest",0.677369034245697,0.753687733110477,0.0935463556876992,1.46453035818238
 "297","random_forest","{air_temp, atm_pressure, rel_humidity, incoming_radiaiton}","ZM-Mon","Equatorial","Forest",0.610345326822537,0.588413394988242,-0.23883658407831,2.51205219177693
 "298","random_forest","{air_temp, atm_pressure, rel_humidity}","AU-ASM","Arid","Savanna",0.880181829164074,0.366765462251698,0.540068822292076,0.977104218366496
 "299","random_forest","{air_temp, atm_pressure, rel_humidity}","AU-Lox","Arid","Forest",3.91873994437847,0.00215942716465968,-3.59386929666054,5.66391095670895
 "300","random_forest","{air_temp, atm_pressure, rel_humidity}","AU-RDF","Equatorial","Savanna",1.16598773294158,0.373280791748306,0.326545285839055,1.96860317649799
 "301","random_forest","{air_temp, atm_pressure, rel_humidity}","AU-TTE","Arid","Grasslands",0.93905809744568,0.199743931750872,0.662065563593593,0.661566096736985
 "302","random_forest","{air_temp, atm_pressure, rel_humidity}","AU-Wac","Temperate","Forest",0.799825772095249,0.340180541231927,-0.517098286640542,1.98473624014452
-"303","random_forest","{air_temp, atm_pressure, rel_humidity}","AU-Wom","Temperate","Forest",0.968559903881825,0.394190023115878,-0.695123834625267,2.45637833203942
+"303","random_forest","{air_temp, atm_pressure, rel_humidity}","AU-Wom","Temperate","Forest",0.968559903881826,0.394190023115878,-0.695123834625267,2.45637833203942
 "304","random_forest","{air_temp, atm_pressure, rel_humidity}","BE-Lon","Temperate","Cropland",0.786488961242352,0.496721100850238,0.0694180784073193,1.36324774662484
 "305","random_forest","{air_temp, atm_pressure, rel_humidity}","CA-Qfo","Cold","Forest",0.357772408963936,0.732153146303737,-0.0486528811471988,1.00823975798328
 "306","random_forest","{air_temp, atm_pressure, rel_humidity}","CA-SF3","Cold","Shrubland",0.403168314636652,0.704732152692167,-0.0101818131173964,1.00289121884882
 "307","random_forest","{air_temp, atm_pressure, rel_humidity}","CH-Cha","Temperate","Grasslands",0.99536787222703,0.749937186881824,-0.935073780078711,2.03058468772694
 "308","random_forest","{air_temp, atm_pressure, rel_humidity}","CN-Cng","Cold","Grasslands",0.87711097132314,0.545447169364608,-0.473109222090221,1.86852355816417
 "309","random_forest","{air_temp, atm_pressure, rel_humidity}","DE-Gri","Temperate","Grasslands",0.757324555438105,0.740549459960949,-0.28954540236887,1.67317391319268
-"310","random_forest","{air_temp, atm_pressure, rel_humidity}","ES-Amo","Arid","Shrubland",1.71624098772587,0.0875435684773533,1.70206885251982,0.599181541934393
+"310","random_forest","{air_temp, atm_pressure, rel_humidity}","ES-Amo","Arid","Shrubland",1.71624098772587,0.0875435684773534,1.70206885251982,0.599181541934393
 "311","random_forest","{air_temp, atm_pressure, rel_humidity}","FI-Hyy","Cold","Forest",0.587702498103958,0.675971213829326,-0.259161765108395,1.39973447504881
 "312","random_forest","{air_temp, atm_pressure, rel_humidity}","FR-Gri","Temperate","Cropland",0.883986998474323,0.325784710732101,-0.482360225759182,1.96235598624734
 "313","random_forest","{air_temp, atm_pressure, rel_humidity}","FR-LBr","Temperate","Forest",0.764609645614054,0.396594798415732,-0.264527108026751,1.91253068374344
@@ -320,6 +320,6 @@
 "319","random_forest","{air_temp, atm_pressure, rel_humidity}","US-Blo","Temperate","Forest",1.39180539317908,0.294901465940776,-1.0561839306861,2.83608497018655
 "320","random_forest","{air_temp, atm_pressure, rel_humidity}","US-Lin","Arid","Cropland",0.799717758457272,0.108345002685096,-0.15999716195614,1.79534947158349
 "321","random_forest","{air_temp, atm_pressure, rel_humidity}","US-LWW","Temperate","Grasslands",0.916173906461857,0.446302318515456,0.774065444549651,1.29986527309634
-"322","random_forest","{air_temp, atm_pressure, rel_humidity}","US-Oho","Cold","Forest",1.08963650295537,0.624567994615576,-0.541886662277434,1.82958744907314
+"322","random_forest","{air_temp, atm_pressure, rel_humidity}","US-Oho","Cold","Forest",1.08963650295537,0.624567994615576,-0.541886662277433,1.82958744907314
 "323","random_forest","{air_temp, atm_pressure, rel_humidity}","US-WCr","Cold","Forest",0.809251115504552,0.621541741406923,-0.164197852899857,1.46453035818238
 "324","random_forest","{air_temp, atm_pressure, rel_humidity}","ZM-Mon","Equatorial","Forest",0.800891275477422,0.316735592692792,-0.20356568323951,2.51205219177693
