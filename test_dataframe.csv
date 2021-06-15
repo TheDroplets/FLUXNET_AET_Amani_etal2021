@@ -1,4 +1,4 @@
-"date","FLUXNET_site_id","IGBF","climate","elevation","latitude","air_temp_celcius","incoming_radiation_Wm.2","atmospheric_pressure_kPa","relative_humidity_percent","soil_moisture_percent","actual_etp_mm"
+"date","FLUXNET_site_id","IGBF","climate","elevation","latitude","air_temp_celcius","incoming_radiation_Wm2","atmospheric_pressure_kPa","relative_humidity_percent","soil_moisture_percent","actual_etp_mm"
 "2010-09-05","AU-ASM","SAV","Arid",606,-22.28,14.874375,595.603395833333,95.0189583333333,65.8125,15.7770833333333,3.00907558880735
 "2010-09-06","AU-ASM","SAV","Arid",606,-22.28,15.26625,593.627604166667,95.0658333333333,55.4166666666667,12.56875,2.67480612123531
 "2010-09-07","AU-ASM","SAV","Arid",606,-22.28,18.53125,587.73375,94.813125,43.4375,10.7125,2.42802310338387
